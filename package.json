@@ -1,0 +1,16 @@
+{
+"name": "99allure",
+"theme": "99allure",
+"version": "4.1.10",
+"description": "99allure ทางเข้าเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้เครดิตฟรี",
+"keywords": [
+"99allure",
+"99allure เครดิตฟรี",
+"99allure ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/99allure",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
